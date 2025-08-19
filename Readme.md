@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alejandro-ao/transformers-art/main/transformer-banner.png" alt="Transformers" width="80%">
+  <img src="assets/transformer1.png" alt="Transformer Model" width="60%">
   
   # 🚀 Transformers From Scratch
   
@@ -47,7 +47,7 @@ Want to help? Open an issue, start a discussion, or submit a pull request. All l
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alejandro-ao/transformers-art/main/transformer-circuit.png" alt="Transformer Circuit" width="40%">
+  <img src="assets/transformer2.png" alt="Transformer Circuit" width="40%">
   
   <b>Let's build the future of AI, one transformer at a time!</b>
 </div>
