@@ -1,53 +1,45 @@
-<div align="center">
-  <img src="assets/transformer1.png" alt="Transformer Model" width="60%">
-  
-  # 🚀 Transformers From Scratch
-  
-  <sub><sup>Building the future of deep learning, one block at a time.</sup></sub>
-</div>
+# 🚀 Transformers From Scratch
+
+Welcome to the **Transformers From Scratch** project! This repository is dedicated to building and understanding transformer architectures from the ground up, with clear code and insightful explanations.
 
 ---
 
-## ✨ Welcome!
-
-This repository is dedicated to **implementing transformer architectures from scratch**—no shortcuts, no pre-built libraries, just pure code and creativity. Whether you're a deep learning enthusiast, a student, or a curious developer, this project is your gateway to understanding the magic behind transformers.
-
----
-
-## 📚 What to Expect
-- **Handcrafted Implementations:** Every transformer model will be coded from the ground up.
-- **Educational Insights:** Each architecture will be accompanied by explanations and visualizations.
-- **Open for Collaboration:** Contributions, ideas, and discussions are welcome!
+## 🌟 Project Vision
+Transformers have changed the landscape of AI, powering breakthroughs in natural language processing, computer vision, and beyond. Here, we aim to:
+- Demystify transformer models by implementing them step-by-step.
+- Provide educational resources for learners and practitioners.
+- Foster a collaborative space for experimentation and innovation.
 
 ---
 
-## 🛠️ Coming Soon
-- [x] Project Initialization
+## 📚 What You'll Find
+- **Pure Python Implementations:** No deep learning frameworks—just the math and logic behind transformers.
+- **Detailed Documentation:** Every model and method will be explained in plain language.
+- **Learning Resources:** Tutorials, guides, and references to help you master the concepts.
+
+---
+
+## 🛠️ Roadmap
+- [x] Project setup
 - [ ] Vanilla Transformer (Encoder/Decoder)
 - [ ] Vision Transformer (ViT)
-- [ ] BERT, GPT, and more
-- [ ] Tutorials & Notebooks
-- [ ] Interactive Visualizations
+- [ ] BERT, GPT, and other variants
+- [ ] Example notebooks
+- [ ] Community contributions
 
 ---
 
-## 🌟 Why Transformers?
-Transformers have revolutionized the fields of **NLP** and **Computer Vision**. By building them from scratch, we demystify their inner workings and empower the community to innovate further.
+## 🤝 How to Contribute
+Curious minds and creative coders are welcome! You can:
+- Suggest new features or improvements
+- Open issues for bugs or questions
+- Submit pull requests with your own transformer implementations
 
 ---
 
-## 📦 How to Use This Repo
-> **Note:** The project is just getting started! Stay tuned for code, docs, and more.
+## 📢 Stay Tuned
+This is just the beginning. Follow the repo for updates, new models, and learning materials. Let's build the future of AI together—one transformer at a time!
 
 ---
 
-## 🤝 Contributing
-Want to help? Open an issue, start a discussion, or submit a pull request. All levels of experience are welcome!
-
----
-
-<div align="center">
-  <img src="assets/transformer2.png" alt="Transformer Circuit" width="40%">
-  
-  <b>Let's build the future of AI, one transformer at a time!</b>
-</div>
+> **Note:** The repository is in its initial phase. Code and documentation will be added soon!
